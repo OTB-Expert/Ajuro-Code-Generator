@@ -1,1 +1,7 @@
 ﻿language: csharp
+mono: none
+dotnet: 2.1.502
+solution: Ajuro.Code.Generator.sln
+script:
+  - dotnet restore
+  - dotnet test
