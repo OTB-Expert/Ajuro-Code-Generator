@@ -4,3 +4,4 @@ packages/
 \.vs/
 /Ajuro.Code.Generator/obj
 /Ajuro.Code.Generator/bin
+/Ajuro.Code.Generator/*.user
